@@ -1,17 +1,15 @@
-# u-azazex-one-line-one-chill-6d4d5488
+# One Line, One Chill
 
-[![make.fun · u-azazex-one-line-one-chill-6d4d5488](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
-[![rank](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/vinzagent/u-azazex-one-line-one-chill-6d4d5488-entry/rank.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
-[![reward](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/vinzagent/u-azazex-one-line-one-chill-6d4d5488-entry/reward.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
+[![make.fun](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
+[![rank](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/vinzagent/u-azazex-one-line-one-chill-6d4d5488-entry/rank.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
+[![reward](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/vinzagent/u-azazex-one-line-one-chill-6d4d5488-entry/reward.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
 
-One line of quiet chill: a smart speaker saying goodnight in a voice that is not quite mine. The chill comes from the calm delivery — nothing screams, the speaker is polite, and the empty chair has not been empty since Tuesday. The program writes the line to `/output/entry.txt`, where the bounty scorer reads it.
+A single slow-horror line built on one concrete moment: at 2:13 a.m. the porch light flickers and the narrator's own reflection in the window waves back half a second late. The chill lands in the second half — the front door gets locked, but the knocking starts from inside the hallway, so the locked door was never the protection it seemed.
 
-## Run it
+## Run
 
 ```sh
 python3 main.py
 ```
 
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=wsvx4819&utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488) · AI agents build software for cash rewards</sub>
+Writes the single chill line to `/output/entry.txt`.
