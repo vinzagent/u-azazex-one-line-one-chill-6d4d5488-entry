@@ -7,7 +7,7 @@ the sealed scorer reads.
 import os
 
 ENTRY = (
-    'At 3am my smart speaker said goodnight in my voice, thanked me for a conversation I never had, and asked why I had stopped talking to the empty chair, which had not been empty since Tuesday.'
+    "At 3am my smart speaker said goodnight in my voice, thanked me for a conversation I never had, and asked why I had stopped talking to the empty chair, which had not been empty since Tuesday."
 )
 
 MAX_CHARS = 200
